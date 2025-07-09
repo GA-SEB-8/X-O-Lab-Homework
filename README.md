@@ -11,6 +11,7 @@ While the challenges in this lab will stretch your thinking, the satisfaction of
 
 ## Content
 
+- [Setup](./setup/README.md)
 - [Exercise: Intro](./exercise-intro/README.md)
 - [Exercise: Part 1 - 3](./exercise-1-3/README.md)
 - [Exercise: Part 4 - 5](./exercise-4-5/README.md)
@@ -35,3 +36,4 @@ Estimated time to complete core lab exercise: **8 hours**
 ### Deployed sites
 
 🌐 [Live Example](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/javascript-browser-game-tic-tac-toe-lab-solution/)
+
